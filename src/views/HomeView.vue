@@ -1,5 +1,12 @@
 <template>
-<div class="home text-center">
+<div>
+  <h1>
+    ブレークポイントサービス
+  </h1>
+  <v-btn class="d-sm-none d-md-flex">コンポーネントを使用し</v-btn>
+  <p class="d-none d-sm-flex d-md-none">SM</p>
+</div>
+<!-- <div class="home text-center">
     <h3>諦めないで準備して続けること大切</h3>
     <div class="purple darken-2 white--text text-center">
       横浜市（よこはまし）は、神奈川県東部に位置する市。
@@ -38,7 +45,7 @@
  <v-icon>mdi mdi-airplane</v-icon>
 </v-btn>
     
-</div>
+</div> -->
 </template>
 
 <script>
